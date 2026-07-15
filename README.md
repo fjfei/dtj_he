@@ -1,12 +1,6 @@
 # 大塘角 岁月 以歌记载
 
 
-<audio controls>
-  <source src="https://github.com/user-attachments/files/30031195/dtj.mp3" type="audio/mpeg">
-  您的浏览器不支持音频播放。
-</audio>
-
-
 ## 塘角旧事 第一部   
 1 秦岭遇险 姻亲初定  
 2 十里红妆 两桩婚嫁  
