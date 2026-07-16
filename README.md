@@ -1,4 +1,7 @@
-# 大塘角 岁月 以歌记载
+# 大塘角 岁月 以歌记载  
+##大塘角-岁月-故事  
+[点击浏览](https://github.com/fjfei/dtj_he/issues/1)
+
 
 [播放大塘角音乐](https://xiaoyuan.fastsong.cn/pages/musicShare/musicShare?PAGE=xiaoyuanmc%3A%2F%2FtrackDetail%3FtrackId%3D131519882959854594&i=eoHFspij&p=2&id=131519882959854594&uid=119854068&channelCode=100&f=1)
 
@@ -6,7 +9,7 @@
 [播放塘角旧事](https://xiaoyuan.fastsong.cn/pages/musicShare/musicShare?PAGE=xiaoyuanmc%3A%2F%2FtrackDetail%3FtrackId%3D141290409572259844&i=eoHFspij&p=2&id=141290409572259844&uid=119854068&channelCode=100&f=1)
 
 
-大塘角-岁月-故事 [点击浏览](https://github.com/fjfei/dtj_he/issues/1)
+
 
 
 
@@ -21,7 +24,7 @@
 6 长子降生 阖家欢腾  
 7 善待雇工 仁心传乡  
 8 儿女绕膝 贤德流芳  
-----全8集-- [卷一 荷、春](https://github.com/fjfei/dtj_he/issues/2)  
+----全8集---- [卷一 荷、春](https://github.com/fjfei/dtj_he/issues/2)  
 
 ## 岁月安稳 二    
 01 稚子染疾 慈母心酸  
@@ -34,4 +37,4 @@
 08 分居立户 儿孙满堂   
 09 体恤三儿 拜师学艺  
 10 学子赴公职  
-----全10集-- [卷二 荷、夏](https://github.com/fjfei/dtj_he/issues/2)  
+----全10集---- [卷二 荷、夏](https://github.com/fjfei/dtj_he/issues/2)  
