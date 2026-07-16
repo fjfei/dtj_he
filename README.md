@@ -1,6 +1,8 @@
 # 大塘角 岁月 以歌记载
 
-[大塘角_族歌](https://github.com/user-attachments/files/30031195/dtj.mp3?raw=true)
+[播放大塘角音乐](https://xiaoyuan.fastsong.cn/pages/musicShare/musicShare?PAGE=xiaoyuanmc%3A%2F%2FtrackDetail%3FtrackId%3D131519882959854594&i=eoHFspij&p=2&id=131519882959854594&uid=119854068&channelCode=100&f=1)
+[大塘角-岁月-故事](https://github.com/fjfei/dtj_he/issues/1)
+[播放塘角旧事](https://xiaoyuan.fastsong.cn/pages/musicShare/musicShare?PAGE=xiaoyuanmc%3A%2F%2FtrackDetail%3FtrackId%3D141290409572259844&i=eoHFspij&p=2&id=141290409572259844&uid=119854068&channelCode=100&f=1)
 
 
 <audio controls>
