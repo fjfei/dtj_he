@@ -21,7 +21,7 @@
 6 长子降生 阖家欢腾  
 7 善待雇工 仁心传乡  
 8 儿女绕膝 贤德流芳  
-----全8集 [荷、春、卷一](https://github.com/fjfei/dtj_he/issues/2)  
+----全8集-- [卷一 荷、春](https://github.com/fjfei/dtj_he/issues/2)  
 
 ## 岁月安稳 二    
 01 稚子染疾 慈母心酸  
@@ -34,4 +34,4 @@
 08 分居立户 儿孙满堂   
 09 体恤三儿 拜师学艺  
 10 学子赴公职  
-----全10集 [荷、夏、卷二](https://github.com/fjfei/dtj_he/issues/2)  
+----全10集-- [卷二 荷、夏](https://github.com/fjfei/dtj_he/issues/2)  
