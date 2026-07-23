@@ -46,4 +46,4 @@
 308 兄弟出师，针线传乡，小院收徒满门庭  
 309  风雨辗转，杏坛相逢，书香人相守  
 310 一见倾心，良缘天成，扎根故土守家常  
-----全10集---- [卷三 荷、秋](https://github.com/fjfei/dtj_he/issues/3)  [卷三 荷、炊烟-故事](https://github.com/fjfei/dtj_he/issues/4)  
+----全10集---- [卷三 荷、秋](https://github.com/fjfei/dtj_he/issues/3)  [事三 禾、炊烟](https://github.com/fjfei/dtj_he/issues/4)  
