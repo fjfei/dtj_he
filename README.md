@@ -1,5 +1,5 @@
 # 大塘角 岁月 以歌记载  
-塘角的岁月，随着时间的更迭而流转，每一季都有独特的风景与故事。  
+塘角的岁月，随光阴的更迭而流转，每一季都有独特的风景与故事。  
 
 [播放 ♪ 大塘角 ♫](https://xiaoyuan.fastsong.cn/pages/musicShare/musicShare?PAGE=xiaoyuanmc%3A%2F%2FtrackDetail%3FtrackId%3D131519882959854594&i=eoHFspij&p=2&id=131519882959854594&uid=119854068&channelCode=100&f=1)
 
@@ -8,7 +8,7 @@
 
 
 ## 岁月-故事 荷塘
-听听塘角老槐树的故事；故事见证了数代人的变迁，让你更直观感受岁月沉淀的温情。  
+听听塘角老槐树的故事；故事见证了一代代人的变迁，让你更直观感受岁月沉淀的温情  
 [点击浏览](https://github.com/fjfei/dtj_he/issues/1)
 
 
